@@ -10,6 +10,7 @@ config.yml
 
 # Ignore dataset folders and large data
 data/
+BCCD/
 datasets/BCCD/
 !datasets/data.yaml
 !datasets/train.txt
