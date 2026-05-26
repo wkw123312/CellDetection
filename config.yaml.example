@@ -1,0 +1,11 @@
+# Copy this file to config.yaml and update the local paths before running training.
+# Do not commit config.yaml to GitHub.
+
+data: ./datasets/data.yaml
+model: ./yolov8n.pt
+epochs: 50
+batch: 16
+imgsz: 640
+device: 0
+project: ./runs
+name: bccd_simple

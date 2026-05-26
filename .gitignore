@@ -1,0 +1,31 @@
+# Ignore personal configuration files
+config.yaml
+config.yml
+*.env
+
+# Ignore model weights and checkpoints
+*.pt
+*.pth
+*.ckpt
+
+# Ignore dataset folders and large data
+data/
+datasets/BCCD/
+!datasets/data.yaml
+!datasets/train.txt
+!datasets/val.txt
+!datasets/test.txt
+input/
+label/
+
+# Ignore logs and training output
+logs/
+runs/
+*.log
+
+# Ignore IDE and Python cache files
+.vscode/
+.idea/
+__pycache__/
+*.py[cod]
+.DS_Store

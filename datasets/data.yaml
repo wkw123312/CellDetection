@@ -1,0 +1,8 @@
+names:
+  0: RBC
+  1: WBC
+  2: Platelets
+
+nc: 3
+train: ./datasets/train.txt
+val: ./datasets/val.txt
