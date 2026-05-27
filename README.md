@@ -54,6 +54,10 @@ CellDetection 是一个基于 YOLOv8 的细胞检测训练启动项目。它将�
 - `project`: 保存输出结果的目录
 - `name`: 训练运行名称
 
+## 页面展示
+<img width="1645" height="895" alt="9481e5cf5f80be088bdb29c6c396932" src="https://github.com/user-attachments/assets/f004c879-e7f6-4226-bc2d-679280310a58" />
+
+
 ## Disclaimer
 
 本项目代码已做脱敏处理，已移除个人服务器路径和隐私配置。使用前请自行创建并配置 `config.yaml`，确保所有路径指向本地合法目录。请勿将个人配置文件、模型权重或私有数据提交到公共仓库。
