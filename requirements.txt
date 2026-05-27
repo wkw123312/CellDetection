@@ -1,5 +1,9 @@
 gradio==6.2.0
 ultralytics==8.3.240
-pillow
+Pillow
 numpy
-# Note: torch (CPU) should be installed separately as shown in README.md
+pyyaml
+
+# Note: torch is required for many YOLOv8 operations and should be installed separately.
+# For CPU-only systems, you can install it with:
+# pip install torch --index-url https://download.pytorch.org/whl/cpu
