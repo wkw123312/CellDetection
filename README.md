@@ -55,7 +55,9 @@ CellDetection 是一个基于 YOLOv8 的细胞检测训练启动项目。它将�
 - `name`: 训练运行名称
 
 ## 页面展示
-<img width="1645" height="895" alt="9481e5cf5f80be088bdb29c6c396932" src="https://github.com/user-attachments/assets/f004c879-e7f6-4226-bc2d-679280310a58" />
+<img width="1645" height="895" alt="8e3cbef5f811e6caf5a2db00a5c3e19" src="https://github.com/user-attachments/assets/38d75d7a-6e86-4e99-a3ac-96a20a83072b" />
+
+
 
 
 ## Disclaimer
